@@ -34,7 +34,6 @@ img {
   height: auto;
 }
 
-
 h1,
 h2,
 h3 {
@@ -48,7 +47,7 @@ p {
 #case1 .backimg {
   position: absolute;
   background: #333
-   url("https://static.pexels.com/photos/248515/pexels-photo-248515.png");
+    url("https://static.pexels.com/photos/248515/pexels-photo-248515.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -68,7 +67,7 @@ p {
 }
 
 #case1 .contenthead {
-padding: 0 1.5em;
+  padding: 0 1.5em;
 }
 
 .wrap {
